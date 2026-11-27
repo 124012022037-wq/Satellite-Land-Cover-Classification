@@ -1,0 +1,1 @@
+After running the Streamlit app, save screenshots here (for example app_home.png and prediction_result.png).

@@ -1,0 +1,9 @@
+Initial hold-out evaluation on synthetic educational data (80% train / 20% test, stratified, random_state=42).
+    Algorithm  Accuracy
+          SVM    0.7500
+Random Forest    0.7000
+          KNN    0.6500
+Decision Tree    0.5714
+
+Selected model: SVM
+These metrics are not evidence of real-world satellite mapping performance.
